@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书AI视频漫剧批量生图"
+  short_description: "读取参考图与知识库，生成逐页文案并用Image2批量生图"
+  default_prompt: "使用 $xiaohongshu-ai-comic-images 处理并生图：/桌面/项目名称"
